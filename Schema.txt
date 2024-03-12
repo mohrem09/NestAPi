@@ -1,0 +1,20 @@
+src/
+|-- utilisateur/
+|   |-- utilisateur.module.ts
+|   |-- utilisateur.controller.ts
+|   |-- utilisateur.service.ts
+|   |-- utilisateur.model.ts
+|-- tweet/
+|   |-- tweet.module.ts
+|   |-- tweet.controller.ts
+|   |-- tweet.service.ts
+|   |-- tweet.model.ts
+|-- commentaire/
+|   |-- commentaire.module.ts
+|   |-- commentaire.controller.ts
+|   |-- commentaire.service.ts
+|   |-- commentaire.model.ts
+|-- middleware/
+|   |-- auth.middleware.ts
+|-- app.module.ts
+|-- main.ts
